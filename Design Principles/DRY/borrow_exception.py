@@ -1,0 +1,2 @@
+class BorrowException(Exception):
+    pass
